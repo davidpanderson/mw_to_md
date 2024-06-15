@@ -2,4 +2,4 @@
 
 PHP script to convert a wiki from Mediawiki to Github Markdown.
 
-Click on Wiki for details.
+[Documentation](https://github.com/davidpanderson/mw_to_md/wiki)
